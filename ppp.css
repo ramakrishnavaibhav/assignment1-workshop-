@@ -1,0 +1,12 @@
+.col-md-3{
+background-color :#3098ff;
+}
+.col-md-9{
+background-color :fff;
+}
+h1{
+
+margin: 2em;
+padding: 1em;
+border:2px solid black;
+}
